@@ -24,10 +24,10 @@
    
    moa.gui.GUI.java
 
-7.Click on classification - Configure
+7. Click on classification - Configure
 
-8.Choose EvaluatePrequential
+8. Choose EvaluatePrequential
 
-9.Learner: Click on Edit and choose the MCNN: 
+9. Learner: Click on Edit and choose the MCNN: 
   
-  MicroClusterSingle
+   MicroClusterSingle
